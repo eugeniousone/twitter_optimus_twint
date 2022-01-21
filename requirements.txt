@@ -12,3 +12,4 @@ geopy
 nest_asyncio
 TextBlob
 wordcloud
+ipython>=7.16.3 # not directly required, pinned by Snyk to avoid a vulnerability
