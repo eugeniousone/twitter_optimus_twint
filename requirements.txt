@@ -12,3 +12,11 @@ geopy
 nest_asyncio
 TextBlob
 wordcloud
+cryptography>=3.2 # not directly required, pinned by Snyk to avoid a vulnerability
+ipython>=7.16.3 # not directly required, pinned by Snyk to avoid a vulnerability
+jinja2>=2.11.3 # not directly required, pinned by Snyk to avoid a vulnerability
+keras>=2.6.0rc3 # not directly required, pinned by Snyk to avoid a vulnerability
+nltk>=3.6.6 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pyarrow>=0.15.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tensorflow>=2.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
