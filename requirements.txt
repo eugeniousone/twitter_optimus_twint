@@ -12,3 +12,5 @@ geopy
 nest_asyncio
 TextBlob
 wordcloud
+jinja2>=3.1.6 # not directly required, pinned by Snyk to avoid a vulnerability
+keras>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
